@@ -1,9 +1,0 @@
-{
-  "pid": 1706,
-  "startedAt": 1791276560690,
-  "command": "dev",
-  "cwd": "/vercel/share/v0-project",
-  "port": 3000,
-  "hostname": "127.0.0.1",
-  "url": "http://127.0.0.1:3000"
-}
